@@ -1,4 +1,7 @@
-# test coverage for  [lex (v1.7.9)](https://github.com/aaditmshah/lexer)  [![npm package](https://img.shields.io/npm/v/npmtest-lex.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-lex) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-lex.svg)](https://travis-ci.org/npmtest/node-npmtest-lex)
+# npmtest-lex
+
+#### basic test coverage for  [lex (v1.7.9)](https://github.com/aaditmshah/lexer)  [![npm package](https://img.shields.io/npm/v/npmtest-lex.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-lex) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-lex.svg)](https://travis-ci.org/npmtest/node-npmtest-lex)
+
 #### An elegant armor-plated JavaScript lexer modelled after flex. Easily extensible to tailor to your need for perfection.
 
 [![NPM](https://nodei.co/npm/lex.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/lex)
@@ -89,7 +92,8 @@
         "url": "git+https://github.com/aaditmshah/lexer.git"
     },
     "scripts": {},
-    "version": "1.7.9"
+    "version": "1.7.9",
+    "bin": {}
 }
 ```
 
